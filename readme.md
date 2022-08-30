@@ -6,6 +6,7 @@
 - alibaba [Arouter](https://github.com/Tencent/matrix) bugfix
 - bytedance [tailor](https://github.com/bytedance/tailor) bugfix
 - meituan [WMRouter](https://github.com/meituan/WMRouter) improvement
+- didi [Dokit](https://github.com/didi/DoKit) bugfix
 - 神策 [sa-sdk-android](https://github.com/sensorsdata/sa-sdk-android) improvement
 - xadmin [xadmin](https://github.com/sshwsfc/xadmin) bugfix
 
